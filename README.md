@@ -61,7 +61,7 @@ git config --global user.name "The username assigned to you"
 
 ### Adding password
 ```bash
-git config --global user.password "Your super secret password"
+git config --global user.passwd "Your super secret password"
 ```
 
 ### Adding email
