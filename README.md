@@ -61,12 +61,12 @@ git config --global user.name "The username assigned to you"
 
 ### Adding password
 ```bash
-git config --global user.name "Your super secret password"
+git config --global user.password "Your super secret password"
 ```
 
 ### Adding email
 ```bash
-git config --global user.name "hackme@google.com"
+git config --global user.email "hackme@google.com"
 ```
 
 ### Verifying it worked
